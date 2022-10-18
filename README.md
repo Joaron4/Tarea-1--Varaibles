@@ -10,7 +10,7 @@
 - Los resultados se evaluarán en base al último *commit* antes de la fecha y hora de entrega
 - Haga *commits* con sus avances regularmente. Se evaluará su progreso en base al histórico de *commits*. 
 - Se espera que sigan el [código de ética de la ACM](https://www.acm.org/code-of-ethics)
-- Prohibida la reproducción o distribución no autorizada de este material según la LEY 23/92 y la D.A. 351/93 y demás aplicables.
+- Prohibida la reproducción o distribución no autorizada de este material según la LEY 23/92, la D.A. 351/93 y demás aplicables.
 
 ---
 
