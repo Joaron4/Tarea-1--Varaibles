@@ -2,7 +2,7 @@
 
 
 ## Instrucciones para los estudiantes
----
+
 
 - Lean cuidadosamente el cuaderno de jupyter y completen donde corresponda
 - Para utilizarlo es necesario qeu usen Visual studio Code
@@ -13,4 +13,5 @@
 - Se espera que sigan el [código de ética de la ACM](https://www.acm.org/code-of-ethics)
 - Prohibida la reproducción o distribución no autorizada de este material según la LEY 23/92 y la D.A. 351/93 y demás aplicables.
 
+---
 
