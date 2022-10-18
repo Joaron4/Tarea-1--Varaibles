@@ -1,7 +1,7 @@
 from otter.api import grade_submission
 import pytest
 
-grade = grade_submission("Tarea 1 - Variables.ipynb", "autograder.zip")
+grade = grade_submission("t01.ipynb", "autograder.zip")
 
 
 def test_function():
