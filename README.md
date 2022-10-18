@@ -5,7 +5,7 @@
 
 
 - Lean cuidadosamente el cuaderno de jupyter y completen donde corresponda
-- Para utilizarlo es necesario qeu usen Visual studio Code
+- Para utilizarlo es necesario que usen Visual studio Code
 - Implemente las instrucciones dadas en el problema
 - Los *tests* en `_test.py` pueden inspeccionarse pero **no modificarse**
 - Los resultados se evaluarán en base al último *commit* antes de la fecha y hora de entrega
