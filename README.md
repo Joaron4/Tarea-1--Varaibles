@@ -2,6 +2,7 @@
 
 
 ## Instrucciones para los estudiantes
+---
 
 - Lean cuidadosamente el cuaderno de jupyter y completen donde corresponda
 - Para utilizarlo es necesario qeu usen Visual studio Code
